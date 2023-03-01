@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+    background-color: rgb(247, 189, 189);
+}
+
+div{
+    margin:250px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background-color: rgb(192, 241, 241);
+
+    border:solid orangered 2px;
+}
